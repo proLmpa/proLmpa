@@ -1,4 +1,12 @@
-### Hi there 👋
+# KIM HEE YEOUL
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FproLmpa&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%2321572F&title=hits&edge_flat=false"/></a>
+
+# Skills
+<h3>Platforms & Language</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"><img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"><img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"><img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"><img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 <!--
 **proLmpa/proLmpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
