@@ -1,22 +1,11 @@
 # KIM HEE YEOUL
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FproLmpa&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%2321572F&title=hits&edge_flat=false"/></a>
 
 ![proLmpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=proLmpa&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=g_pplus)](https://solved.ac/g_pplus)
+- 🔭 I’m currently working on T&Dsoft, cybersecurity company
 
-- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning IaC using k8s, docker, and terraform
 
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-  
-- 💬 Ask me about ...
-  
-- 📫 How to reach me: ...
-  
-- 😄 Pronouns: ...
-  
-- ⚡ Fun fact: ...
+- ## 📬 Contact
+[![Email](https://img.shields.io/badge/Email-kheeyeoul%40gmail.com-blue?logo=gmail)](mailto:kheeyeoul@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/heeyeoul-kim-ab0619264/)
