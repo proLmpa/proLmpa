@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on T&Dsoft, cybersecurity company
 
-- 🌱 I’m currently learning IaC using k8s, docker, and terraform
+- 🌱 I’m currently learning IaC (k8s, terraform) and Kotlin for DevSecOps migration
 
 - ## 📬 Contact
 [![Email](https://img.shields.io/badge/Email-kheeyeoul%40gmail.com-blue?logo=gmail)](mailto:kheeyeoul@gmail.com)
